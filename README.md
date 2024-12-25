@@ -84,5 +84,5 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 
 **Result:**
-
+ Thus the different IC's are studied and truth table for logic gates are verified.
 
